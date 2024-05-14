@@ -1,0 +1,17 @@
+[
+  {
+    "preview": "img/preview/photo_template_1.jpg",
+    "original": "img/original/photo_template_1.jpg",
+    "description": "photo_template_1"
+  },
+  {
+    "preview": "img/preview/photo_template_2.jpg",
+    "original": "img/original/photo_template_2.jpg",
+    "description": "photo_template_2"
+  },
+  {
+    "preview": "https://images.pexels.com/photos/22944570/pexels-photo-22944570.jpeg",
+    "original": "https://images.pexels.com/photos/22944570/pexels-photo-22944570.jpeg",
+    "description": "pexels-photo-22944570"
+  }
+]
