@@ -1,5 +1,15 @@
 [
   {
+    "preview": "img/preview/photo_template_3.jpg",
+    "original": "img/original/photo_template_3.jpg",
+    "description": "photo_template_3"
+  },
+  {
+    "preview": "img/preview/photo_figma.jpg",
+    "original": "img/original/photo_figma.jpg",
+    "description": "photo_figma"
+  },
+  {
     "preview": "img/preview/photo_template_1.jpg",
     "original": "img/original/photo_template_1.jpg",
     "description": "photo_template_1"
